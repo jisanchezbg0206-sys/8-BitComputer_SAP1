@@ -67,3 +67,6 @@ Every instruction follows a 6-state ($T$-state) timing sequence:
 
 ## Future of this project
   Sadly, due to hardware limitations this project is coming to a close. Originally, the plan was to create a system that could run a "simple" game such as 'Pong' or 'Tetris'. It's simply not feasible using the barebones design this was created with. Now it's time to move on to project SAP2 with the goal to being able to run Assembler, which would facilitate easier programming.
+
+## Future documentation
+Over the upcoming weeks I will be uploading the steps I took to create each part, along with the data sheet. 
